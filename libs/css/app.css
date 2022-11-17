@@ -1142,7 +1142,7 @@ select {
   -webkit-border-radius: 1000px;
   border-radius: 1000px;
   font-weight: bold;
-  background: #A34C00;
+  background: #0000a3;
   padding: 0.23077em 0.69231em;
   cursor: default;
   color: #fff;
@@ -1159,8 +1159,8 @@ select {
   position: relative;
   padding: 0.84615em 1.61538em 0.92308em 0.84615em;
   font-size: 1.07692em;
-  background-color: #A34C00;
-  border-color: #703400;
+  background-color: #0000a3;
+  border-color: #0000a3;
   color: #fff;
 }
 /* line 97, ../../../../../../../../Ruby25-x64/lib/ruby/gems/2.5.0/gems/zurb-foundation-4.3.2/scss/foundation/components/_alert-boxes.scss */
